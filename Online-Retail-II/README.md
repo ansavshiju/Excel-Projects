@@ -2,8 +2,6 @@
 
 This Excel project uses retail transaction data to analyze sales trends, product performance, and customer activity.
 
-The workbook includes cleaned data, calculations, PivotTables, charts, a sales dashboard, insights and recommendations, and a changelog.
+[Download the Excel preview](Online_Retail_II_Preview.xlsx)
 
-## Workbook
-
-`Excel_Project_1_Completed.xlsx` is approximately 168 MiB. The full workbook is pending upload.
+The preview includes key metrics, a weekday revenue chart, and the original insights and recommendations. The full workbook contains the source data, Power Query workflow, PivotTables and interactive dashboard and is approximately 168 MiB.
